@@ -1,0 +1,1 @@
+tools/clang/include/clang/AST/AttrVisitor.inc: /home/yarrya/Polystat/llvm-clang-12/clang/include/clang/Basic/ASTNode.td /home/yarrya/Polystat/llvm-clang-12/clang/include/clang/Basic/AttrDocs.td /home/yarrya/Polystat/llvm-clang-12/clang/include/clang/Basic/DeclNodes.td /home/yarrya/Polystat/llvm-clang-12/clang/include/clang/Basic/StmtNodes.td

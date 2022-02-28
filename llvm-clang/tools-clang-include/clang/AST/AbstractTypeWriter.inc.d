@@ -1,0 +1,1 @@
+tools/clang/include/clang/AST/AbstractTypeWriter.inc: /home/yarrya/Polystat/llvm-clang-12/clang/include/clang/AST/PropertiesBase.td /home/yarrya/Polystat/llvm-clang-12/clang/include/clang/Basic/ASTNode.td /home/yarrya/Polystat/llvm-clang-12/clang/include/clang/Basic/TypeNodes.td
